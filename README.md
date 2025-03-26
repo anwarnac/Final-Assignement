@@ -1,4 +1,4 @@
-# Final-Assignement
+# Final-Assignment
 ![question 1](https://github.com/user-attachments/assets/b6909f45-d540-4e48-87d3-8037ba274d6f)
 <img width="1440" alt="question 2 part 1" src="https://github.com/user-attachments/assets/b557afe7-c448-4367-93b1-e2028031da93" />
 <img width="1440" alt="question 2 part 2" src="https://github.com/user-attachments/assets/68f46b5e-5c0a-42a0-aa7a-dadaac306848" />
